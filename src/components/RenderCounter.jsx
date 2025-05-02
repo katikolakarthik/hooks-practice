@@ -16,6 +16,7 @@ const Renderfun = ()=>{
       <p>count : {count}</p>
       <p>rendercount:{rendercount.current}</p>
       <button onClick={increment}>increment</button>
+      <button>hello click</button>
     </div>
   )
 }
