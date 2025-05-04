@@ -10,11 +10,11 @@ function App() {
     <div>
       <h1>useRef Hook Examples</h1>
       <div>
-        <FormComponent />
+        {/* <FormComponent />
         <FocusComponent />
         <RenderDemoComponent />
         <NumberTracker />
-        <RenderCounter /> 
+        <RenderCounter />  */}
         
         <Usestate />
       </div>
